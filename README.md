@@ -72,6 +72,3 @@ The script saves healthy dashboard, original history, alert active, alert cleare
 
 ## Limitations and human intervention
 Automatic recovery covers app process crashes while the supervisor survives, resumption from committed SQLite records, and health recovery when accepted input resumes. It does not repair a corrupted database, unavailable disk, invalid permissions, host/power failure, a killed supervisor, or a persistently broken source/configuration. Repeated crashes restart indefinitely; inspect logs and correct the cause. Disk exhaustion/permissions can prevent logging itself. Data gaps cannot be recovered without another authoritative source. Tests do not establish OS boot behavior. The system binds to localhost and is a classroom application without authentication or remote monitoring.
-
-## Submit
-Upload the extracted source folder contents to your own GitHub repository; do not submit the instructor repository as your work. Include source, original CSV, templates, configuration, tests, README, AI_LOG and evidence. Add your real repository URL to `GITHUB_LINK.txt`. Screenshot completion, your own verification, any required instructor approval of virtual recovery, and that real GitHub link remain student steps. Do not claim these have already been completed.
