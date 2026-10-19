@@ -1,0 +1,29 @@
+{
+  "age_seconds": 0.07,
+  "alert": "NORMAL",
+  "current": 24.0,
+  "data_status": "ACCEPTED",
+  "health": "HEALTHY",
+  "interval": 0.5,
+  "latest": {
+    "accepted_value": 24.0,
+    "id": 1,
+    "provenance": "SYNTHETIC_TEST",
+    "raw_value": "24",
+    "received_utc": "2026-10-19T01:08:39.265773+00:00",
+    "source_timestamp": "2026-10-01T08:00:00",
+    "status": "ACCEPTED"
+  },
+  "mode": "SYNTHETIC TEST",
+  "recent": [
+    {
+      "accepted_value": 24.0,
+      "id": 1,
+      "provenance": "SYNTHETIC_TEST",
+      "raw_value": "24",
+      "received_utc": "2026-10-19T01:08:39.265773+00:00",
+      "source_timestamp": "2026-10-01T08:00:00",
+      "status": "ACCEPTED"
+    }
+  ]
+}

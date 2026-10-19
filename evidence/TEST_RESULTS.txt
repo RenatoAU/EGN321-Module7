@@ -1,0 +1,4 @@
+Automated tests: 4 passed.
+Integration: real HTTP responses; alert activation and clearing; stale and explicit missing input; FAILED health; forced child kill; supervisor restart; final HEALTHY.
+SQLite integrity: ok; original archive rows preserved: 8780.
+Environment: assistant Linux, synthetic test input, 0.5-second delivery. Screenshots NOT captured; HTML and JSON are actual output.

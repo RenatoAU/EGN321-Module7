@@ -1,0 +1,92 @@
+{
+  "age_seconds": 0.1,
+  "alert": "NORMAL",
+  "current": 24.0,
+  "data_status": "ACCEPTED",
+  "health": "HEALTHY",
+  "interval": 0.5,
+  "latest": {
+    "accepted_value": 24.0,
+    "id": 8,
+    "provenance": "SYNTHETIC_TEST",
+    "raw_value": "24",
+    "received_utc": "2026-10-19T01:08:48.421773+00:00",
+    "source_timestamp": "2026-10-01T08:07:00",
+    "status": "ACCEPTED"
+  },
+  "mode": "SYNTHETIC TEST",
+  "recent": [
+    {
+      "accepted_value": 24.0,
+      "id": 8,
+      "provenance": "SYNTHETIC_TEST",
+      "raw_value": "24",
+      "received_utc": "2026-10-19T01:08:48.421773+00:00",
+      "source_timestamp": "2026-10-01T08:07:00",
+      "status": "ACCEPTED"
+    },
+    {
+      "accepted_value": 24.0,
+      "id": 7,
+      "provenance": "SYNTHETIC_TEST",
+      "raw_value": "24",
+      "received_utc": "2026-10-19T01:08:47.291372+00:00",
+      "source_timestamp": "2026-10-01T08:06:00",
+      "status": "ACCEPTED"
+    },
+    {
+      "accepted_value": null,
+      "id": 6,
+      "provenance": "SYNTHETIC_TEST",
+      "raw_value": "",
+      "received_utc": "2026-10-19T01:08:46.786238+00:00",
+      "source_timestamp": "2026-10-01T08:05:00",
+      "status": "MISSING"
+    },
+    {
+      "accepted_value": 27.0,
+      "id": 5,
+      "provenance": "SYNTHETIC_TEST",
+      "raw_value": "27",
+      "received_utc": "2026-10-19T01:08:41.276144+00:00",
+      "source_timestamp": "2026-10-01T08:04:00",
+      "status": "ACCEPTED"
+    },
+    {
+      "accepted_value": 32.0,
+      "id": 4,
+      "provenance": "SYNTHETIC_TEST",
+      "raw_value": "32",
+      "received_utc": "2026-10-19T01:08:40.773749+00:00",
+      "source_timestamp": "2026-10-01T08:03:00",
+      "status": "ACCEPTED"
+    },
+    {
+      "accepted_value": 32.0,
+      "id": 3,
+      "provenance": "SYNTHETIC_TEST",
+      "raw_value": "32",
+      "received_utc": "2026-10-19T01:08:40.270675+00:00",
+      "source_timestamp": "2026-10-01T08:02:00",
+      "status": "ACCEPTED"
+    },
+    {
+      "accepted_value": 32.0,
+      "id": 2,
+      "provenance": "SYNTHETIC_TEST",
+      "raw_value": "32",
+      "received_utc": "2026-10-19T01:08:39.767926+00:00",
+      "source_timestamp": "2026-10-01T08:01:00",
+      "status": "ACCEPTED"
+    },
+    {
+      "accepted_value": 24.0,
+      "id": 1,
+      "provenance": "SYNTHETIC_TEST",
+      "raw_value": "24",
+      "received_utc": "2026-10-19T01:08:39.265773+00:00",
+      "source_timestamp": "2026-10-01T08:00:00",
+      "status": "ACCEPTED"
+    }
+  ]
+}
